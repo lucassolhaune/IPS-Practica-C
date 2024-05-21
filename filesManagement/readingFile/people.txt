@@ -1,0 +1,14 @@
+Nombre         Apellido         Edad
+------         --------         ----
+Francisco	Gomez    	87
+Ines     	Dominguez	85
+Alberto  	Torres   	89
+Nilda    	Demarco  	91
+Marcelo  	Gomez    	52
+Carina   	Torres   	50
+Leandro  	Gomez    	20
+Lucia    	Gomez    	17
+Jorge    	Solhaune 	51
+Mariana  	Gomez    	49
+Lucas    	Solhaune 	22
+Matias   	Solhaune 	17

@@ -1,0 +1,6 @@
+Nombre        Apellido        Edad
+------        --------        ----
+Lucas   		Solhaune			22
+Leandro 		Gomez   			21
+Fernando		Gomez   			33
+Marcelo 		Gomez   			52
